@@ -1,4 +1,4 @@
-span:first-child,span:last-child{
+.before:first-child,.after:last-child{
 	color:red;
 	font-size:20px;
 }
